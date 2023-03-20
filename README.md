@@ -59,6 +59,8 @@
   -->
   <div id="links">
     <h2>Links</h2>
+    - <a href="https://learn.microsoft.com/en-gb/azure/developer/java/sdk/get-started">Get started with cloud development using Java on Azure</a>
+    <br>
     - <a href="https://learn.microsoft.com/en-gb/azure/cognitive-services/computer-vision/quickstarts-sdk/image-analysis-client-library-40?tabs=visual-studio%2Cwindows&pivots=programming-language-csharp">Quickstart: Image Analysis 4.0</a>
     <br>
     - <a href="https://learn.microsoft.com/en-us/samples/azure-samples/cognitive-services-java-sdk-samples/cognitive-services-java-sdk-samples/">Cognitive Services Java SDK Samples</a>
